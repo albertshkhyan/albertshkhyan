@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/albertshkhyan](https://github.com/albertshkhyan)
 
-- 💬 Ask me about **React, Vue, and React Native**
+- 💬 Ask me about **Mobile application, frontend, and backend development**
 
 - 📫 How to reach me **alikshkhyan@gmail.com**
 
