@@ -7,9 +7,9 @@
 
 - Mobile App in React Native **https://apps.apple.com/am/app/mementix/id6472716301**
 
-- 🌱 I’m currently learning **Advanced algorithms, mastering Nest.js framework, exploring animation techniques, and delving into canvas programming**
-
 - Streamlined Digital Moving Marketplace **https://moomovesyou.com/**
+  
+-  🌱 I’m currently learning **Advanced algorithms, mastering Nest.js framework, exploring animation techniques, and delving into canvas programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/albertshkhyan](https://github.com/albertshkhyan)
 
