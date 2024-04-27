@@ -5,19 +5,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertshkhyan" alt="albertshkhyan" /></a> </p>
 
-- Mobile App in React Native **https://apps.apple.com/am/app/mementix/id6472716301**
+📱 Mobile App in React Native: [Mementix](https://apps.apple.com/am/app/mementix/id6472716301)
+   - An iOS app for [Mementix](https://mementix.com/), a digital moving marketplace.
 
-- Streamlined Digital Moving Marketplace **https://moomovesyou.com/**
-  
--  🌱 I’m currently learning **Advanced algorithms, mastering Nest.js framework, exploring animation techniques, and delving into canvas programming**
+🌐 Streamlined Digital Moving Marketplace: [MooMovesYou](https://moomovesyou.com/)
+   - An online platform aimed at simplifying the moving process.
 
-- 👨‍💻 All of my projects are available at [https://github.com/albertshkhyan](https://github.com/albertshkhyan)
+🌱 Currently Learning:
+   - Advanced algorithms
+   - Mastering Nest.js framework
+   - Exploring animation techniques
+   - Delving into canvas programming
 
-- 💬 Ask me about **Mobile application, frontend, and backend development**
+👨‍💻 Explore My Projects: [GitHub](https://github.com/albertshkhyan)
 
-- 📫 How to reach me **alikshkhyan@gmail.com**
+💬 Ask Me About:
+   - Mobile application development
+   - Frontend development
+   - Backend development
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/albert-shkhyan-a7b200199/](https://www.linkedin.com/in/albert-shkhyan-a7b200199/)
+📫 Reach Me: [alikshkhyan@gmail.com](mailto:alikshkhyan@gmail.com)
+
+📄 My Experiences: [LinkedIn](https://www.linkedin.com/in/albert-shkhyan-a7b200199/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
