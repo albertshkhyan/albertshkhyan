@@ -39,7 +39,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/2560px-Babel_Logo.svg.png" alt="babel" width="40" height="40"/>
     </a>
     <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-        <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_efb1b2ba6b11bd2a070628dc56b9fef5/canvasjs-charts.png" alt="canvasjs" width="40" height="40"/>
+        <img src="https://getbutterfly.com/wp-content/uploads/2022/03/javascript-canvas-logo.png" alt="canvasjs" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
