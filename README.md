@@ -48,7 +48,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="height: 40px; display: inline-block;">
-       <img src="https://golden-team.org/static/services/express.webp" alt="express" width="40" />
+       <img src="https://camo.githubusercontent.com/8fc459c5ed3963cdcc99f833e91cb5ad5818138185defb6d3161e18d23b50a54/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6b632d636c6f75642f696d616765732f665f6175746f2c715f6175746f2f76313635313737323136332f657870726573736a736c6f676f2f657870726573736a736c6f676f2e776562703f5f693d4141" alt="express" width="40" />
    </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
