@@ -6,17 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertshkhyan" alt="albertshkhyan" /></a> </p>
 
 <h2>GitHub Stats</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-    <div style="flex-basis: 48%; margin-bottom: 10px;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertshkhyan&show_icons=true&locale=en&layout=compact" alt="albertshkhyan" />
-    </div>
-    <div style="flex-basis: 48%; margin-bottom: 10px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertshkhyan&show_icons=true&locale=en" alt="albertshkhyan" />
-    </div>
-    <div style="flex-basis: 100%;">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&" alt="albertshkhyan" />
-    </div>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertshkhyan&show_icons=true&locale=en&layout=compact" alt="albertshkhyan" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=albertshkhyan&show_icons=true&locale=en" alt="albertshkhyan" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&" alt="albertshkhyan" />
+</p>
 
 <br/>
 
