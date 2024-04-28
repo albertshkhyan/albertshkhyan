@@ -1,6 +1,10 @@
 <h1 align="center">Hey there, I'm Albert Shkhyan! 👋</h1>
 <h3 align="center">I'm a passionate software engineer located in Armenia, specializing in both frontend and backend development. Possessing extensive expertise in technologies such as React, React Native, Next.js, Node.js, Nest.js, and more, I am dedicated to crafting resilient and scalable solutions that drive innovation.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertshkhyan&label=Profile%20views&color=0e75b6&style=flat" alt="albertshkhyan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertshkhyan" alt="albertshkhyan" /></a> </p>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
     <div style="flex-basis: 48%; margin-bottom: 10px;">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertshkhyan&show_icons=true&locale=en&layout=compact" alt="albertshkhyan" />
@@ -12,10 +16,6 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&" alt="albertshkhyan" />
     </div>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertshkhyan&label=Profile%20views&color=0e75b6&style=flat" alt="albertshkhyan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertshkhyan" alt="albertshkhyan" /></a> </p>
 
 📱 Mobile App in React Native: [Mementix](https://apps.apple.com/am/app/mementix/id6472716301)
    - An iOS app for [Mementix](https://mementix.com/), a digital moving marketplace.
