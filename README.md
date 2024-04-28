@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertshkhyan" alt="albertshkhyan" /></a> </p>
 
+<h2>GitHub Stats</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
     <div style="flex-basis: 48%; margin-bottom: 10px;">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertshkhyan&show_icons=true&locale=en&layout=compact" alt="albertshkhyan" />
@@ -16,6 +17,7 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&" alt="albertshkhyan" />
     </div>
 </div>
+
 
 📱 Mobile App in React Native: [Mementix](https://apps.apple.com/am/app/mementix/id6472716301)
    - An iOS app for [Mementix](https://mementix.com/), a digital moving marketplace.
