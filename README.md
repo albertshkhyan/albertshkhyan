@@ -130,8 +130,14 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertshkhyan&show_icons=true&locale=en&layout=compact" alt="albertshkhyan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertshkhyan&show_icons=true&locale=en" alt="albertshkhyan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&" alt="albertshkhyan" /></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div style="flex: 0 0 48%; margin-bottom: 10px;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertshkhyan&show_icons=true&locale=en&layout=compact" alt="albertshkhyan" />
+    </div>
+    <div style="flex: 0 0 48%; margin-bottom: 10px;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertshkhyan&show_icons=true&locale=en" alt="albertshkhyan" />
+    </div>
+    <div style="flex: 0 0 100%;">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&" alt="albertshkhyan" />
+    </div>
+</div>
