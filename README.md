@@ -30,10 +30,10 @@ Full-stack engineer who ships **mobile and web apps** from idea to production.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&theme=default" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertshkhyan&theme=default" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertshkhyan&theme=default" alt="Profile details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertshkhyan&theme=default" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertshkhyan&theme=default" alt="Most committed language" />
 </p>
