@@ -154,9 +154,9 @@
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertshkhyan&show_icons=true&hide_title=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertshkhyan&layout=compact&langs_count=8)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertshkhyan&theme=github_dark)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertshkhyan&theme=github_dark)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertshkhyan&theme=github_dark)
 
 ---
 
