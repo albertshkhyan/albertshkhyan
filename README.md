@@ -26,6 +26,20 @@ Full-stack engineer who ships **mobile and web apps** from idea to production.
 
 ---
 
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&theme=default" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertshkhyan&theme=default" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertshkhyan&theme=default" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertshkhyan&theme=default" alt="Most committed language" />
+</p>
+
+---
+
 ## Featured work
 
 ### ⭐ Public / demo (pin these 3–6 repos)
@@ -164,20 +178,6 @@ Full-stack engineer who ships **mobile and web apps** from idea to production.
   <img alt="Figma" title="Figma" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
 <p align="center"><sub>React · Next.js · TypeScript · Tailwind · Vite · Node · NestJS · GraphQL · PostgreSQL · MongoDB · Prisma · React Native · Expo · Swift · Docker · AWS · Git · Jest · Postman · Swagger · Figma</sub></p>
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&theme=default" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertshkhyan&theme=default" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertshkhyan&theme=default" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertshkhyan&theme=default" alt="Most committed language" />
-</p>
 
 ---
 
