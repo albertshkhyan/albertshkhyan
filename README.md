@@ -8,6 +8,7 @@
   <a href="mailto:alikshkhyan@gmail.com" title="Email me"><img src="https://s.magecdn.com/social/tc-mail.svg" alt="Email" height="28" /></a>
   <a href="https://www.linkedin.com/in/albert-shkhyan-a7b200199/" title="LinkedIn profile"><img src="https://s.magecdn.com/social/tc-linkedin.svg" alt="LinkedIn" height="28" /></a>
   <a href="https://github.com/albertshkhyan" title="GitHub profile"><img src="https://s.magecdn.com/social/tc-github.svg" alt="GitHub" height="28" /></a>
+  <a href="https://albertshkhyan.github.io/albert-shkhyan-portfolio/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-Albert_Shkhyan-6c5ce7?style=flat" alt="Portfolio" height="28" /></a>
 </p>
 
 <p align="center">
