@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:alikshkhyan@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/albert-shkhyan-a7b200199/">LinkedIn</a> •
-  <a href="https://github.com/albertshkhyan">GitHub</a>
+  <a href="mailto:alikshkhyan@gmail.com" title="Email me"><img src="https://s.magecdn.com/social/tc-mail.svg" alt="Email" height="28" /></a>
+  <a href="https://www.linkedin.com/in/albert-shkhyan-a7b200199/" title="LinkedIn profile"><img src="https://s.magecdn.com/social/tc-linkedin.svg" alt="LinkedIn" height="28" /></a>
+  <a href="https://github.com/albertshkhyan" title="GitHub profile"><img src="https://s.magecdn.com/social/tc-github.svg" alt="GitHub" height="28" /></a>
 </p>
 
 <p align="center">
@@ -17,6 +17,8 @@
 ---
 
 ## About me
+
+Full-stack engineer who ships **mobile and web apps** from idea to production.
 
 - I build **mobile and web products** with a focus on **performance, clean architecture, and scalable UI**.
 - Strong in **React / React Native**, **TypeScript**, **Node.js**, **NestJS**.
@@ -130,34 +132,52 @@
 
 ## Tech stack
 
-**Frontend:** React, React Native, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, NestJS, GraphQL, PostgreSQL, MongoDB  
-**Tooling:** Docker, Git, Jest, Postman, Figma
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Zustand, Vite  
+**Backend:** Node.js, NestJS, GraphQL, PostgreSQL, MongoDB, Prisma  
+**Mobile:** React Native, Expo, SwiftUI  
+**DevOps / Cloud:** Docker, AWS (S3)  
+**Tooling:** Git, Jest, Postman, Figma, Swagger  
+
+> Production: TypeScript, testing (Jest), API docs (Swagger), DB (Prisma + PostgreSQL/Mongo).
 
 <p>
-  <img alt="React" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="React Native" height="28" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
-  <img alt="TypeScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Next.js" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img alt="Node.js" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="NestJS" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
-  <img alt="PostgreSQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="GraphQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
-  <img alt="Docker" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img alt="Jest" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-  <img alt="Tailwind" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="Figma" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+  <img alt="React" title="React" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="TypeScript" title="TypeScript" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Vite" title="Vite" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />
+  <img alt="Node.js" title="Node.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="NestJS" title="NestJS" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img alt="GraphQL" title="GraphQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" title="MongoDB" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="Prisma" title="Prisma" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img alt="React Native" title="React Native" height="28" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
+  <img alt="Expo" title="Expo" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
+  <img alt="Swift" title="Swift" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img alt="Docker" title="Docker" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="AWS" title="AWS" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Git" title="Git" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Jest" title="Jest" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+  <img alt="Postman" title="Postman" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="Swagger" title="Swagger" height="28" src="https://cdn.simpleicons.org/swagger/85EA2D" />
+  <img alt="Figma" title="Figma" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
+<p align="center"><sub>React · Next.js · TypeScript · Tailwind · Vite · Node · NestJS · GraphQL · PostgreSQL · MongoDB · Prisma · React Native · Expo · Swift · Docker · AWS · Git · Jest · Postman · Swagger · Figma</sub></p>
 
 ---
 
 ## GitHub stats
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertshkhyan&theme=github_dark)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertshkhyan&theme=github_dark)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertshkhyan&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan&theme=default" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertshkhyan&theme=default" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertshkhyan&theme=default" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertshkhyan&theme=default" alt="Most committed language" />
+</p>
 
 ---
 
