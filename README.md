@@ -103,6 +103,7 @@
 
 - ⚖️ **TicketShield** — Law practice web app (traffic / DUI / defense)  
   Client intake and case workflows tailored for a legal services website.
+  **Link:** https://www.ticketshield.com/
 
 - 🏌️ **TeeSwap** — Reciprocal tee-time booking platform  
   Web apps for members and clubs + admin dashboard, backed by a Node.js/TypeScript API.
