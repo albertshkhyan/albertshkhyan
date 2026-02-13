@@ -138,30 +138,25 @@
   <img alt="React Native" height="28" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
   <img alt="TypeScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="JavaScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Next.js" height="28" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
+  <img alt="Next.js" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img alt="Node.js" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="NestJS" height="28" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" />
+  <img alt="NestJS" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
   <img alt="PostgreSQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img alt="MongoDB" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="GraphQL" height="28" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+  <img alt="GraphQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
   <img alt="Docker" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img alt="Jest" height="28" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-  <img alt="Tailwind" height="28" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  <img alt="Figma" height="28" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img alt="Jest" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+  <img alt="Tailwind" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Figma" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 </p>
 
 ---
 
 ## GitHub stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=albertshkhyan&show_icons=true&hide_title=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertshkhyan&layout=compact" alt="Top languages" />
-</p>
-
-<p>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan" alt="GitHub streak" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertshkhyan&show_icons=true&hide_title=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertshkhyan&layout=compact&langs_count=8)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=albertshkhyan)
 
 ---
 
